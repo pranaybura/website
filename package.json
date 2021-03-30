@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranaybura/website.git"
+  },
   "keywords": [],
   "author": "Pranay Bura",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranaybura/website/issues"
+  },
+  "homepage": "https://github.com/pranaybura/website#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.3"
   }
